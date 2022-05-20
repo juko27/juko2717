@@ -2,11 +2,6 @@
 ####  Меня зовут Ольга Жукова, я - начинающий data-engineer
 
 ##### Хочу показать уже имеющиеся работы:
-`Django:` 
-
--  [Проект YaMDb - собирает отзывы пользователей на произведения](https://github.com/juko27/yamdb_final)
-- [Блог Yatube](https://github.com/juko27/hw05_final) 
-- [Api к блогу](https://github.com/juko27/api_final_yatube) 
 
 
 
@@ -14,9 +9,19 @@
 
 -  [Пайплайн выгрузки ежедневных отчётов по количеству поездок на велосипедах в городе Нью-Йорк](https://github.com/juko27/NY_cycling_airflow) 
 
+
 `Python DA:`
 
 - [Ноутбук, визуализирующий NDVI выбранного участка с помощью открытых данных спутниковой съемки семейства Sentinel-2](https://github.com/juko27/sentinel_test) 
+
+
+`Django:` 
+
+-  [Проект YaMDb - собирает отзывы пользователей на произведения](https://github.com/juko27/yamdb_final)
+- [Блог Yatube](https://github.com/juko27/hw05_final) 
+- [Api к блогу](https://github.com/juko27/api_final_yatube) 
+
+
 
 
 
